@@ -6,23 +6,6 @@ This project is an end-to-end Data Engineering pipeline that extracts weather da
 
 ## Architecture
 
-OpenWeather API
-        │
-        ▼
- Apache Airflow
-        │
-        ▼
- AWS S3 (Bronze Layer)
-        │
-        ▼
- Data Transformation
-        │
-        ▼
- MySQL (Silver Layer)
-        │
-        ▼
- Audit Table
-```
 
 ## Tech Stack
 
