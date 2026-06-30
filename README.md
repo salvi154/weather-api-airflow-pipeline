@@ -6,6 +6,8 @@ This project is an end-to-end Data Engineering pipeline that extracts weather da
 
 ## Architecture
 
+<img width="1254" height="1254" alt="architecture" src="https://github.com/user-attachments/assets/fac237aa-29fc-4df3-b0e9-faafebc6a55b" />
+
 
 ## Tech Stack
 
